@@ -1,6 +1,5 @@
 # [Vehicle Radio] Romania Radio
 Un mod care adaugă radio cu muzică românească pe Garry's Mod.
-**Nu veți găsi release aici sau pe atelierul steam, deoarece încă lucrez la acest addon.**
 [⚠️ Read Copyright Disclaimer](https://github.com/mariangXzyy/gmod-romania-vehicleradio/main/README.md#-copyright-disclaimer)
 
 # Ce îți trebuie:
