@@ -28,6 +28,8 @@ Un mod care adaugă radio cu muzică românească pe Garry's Mod.
 Addon-ul nu face nicio conexiune cu internet-ul, toată muzica este stocată în addon pe PC. De asemenea verificați dacă aveți destul spațiu liber pe hard disk =)
 #### 2. Cum pot deschide meniul?
 Intră pe consola jocului, introduci `bind (tasta aici) +vehicles_radio_gui` si foloseste acea tastă pentru a accesa radio-ul. Alte comenzi le poti vedea mai jos în secțiunea **Comenzi Vehicle Radio**.
+#### 3. De ce nu bagi online radio in loc sa mai descarci muzica?
+In primul rand, URL-urile cu live radio in format MP3 nu pot fi usor de gasite, in special alea romanesti. In al doilea rand, nu se stie daca Vehicle Radio acceptă fișiere de tip m3u. In al treilea rand, cand pierzi acces la internet si te joci gmod pe singleplayer, cum vei putea sa asculti la radio daca e bazat pe internet?
 
 # Comenzi Vehicle Radio
 - `+vehicles_radio_gui` deschide radio hud
